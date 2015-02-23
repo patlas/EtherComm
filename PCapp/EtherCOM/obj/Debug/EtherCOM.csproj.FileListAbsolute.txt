@@ -1,0 +1,10 @@
+C:\Users\PatLas\Desktop\Kołodziej\PCapp\EtherCOM\bin\Debug\EtherCOM.exe.config
+C:\Users\PatLas\Desktop\Kołodziej\PCapp\EtherCOM\bin\Debug\EtherCOM.exe
+C:\Users\PatLas\Desktop\Kołodziej\PCapp\EtherCOM\bin\Debug\EtherCOM.pdb
+C:\Users\PatLas\Desktop\Kołodziej\PCapp\EtherCOM\obj\Debug\EtherCOM.csprojResolveAssemblyReference.cache
+C:\Users\PatLas\Desktop\Kołodziej\PCapp\EtherCOM\obj\Debug\EtherCOM.EtherCOM.resources
+C:\Users\PatLas\Desktop\Kołodziej\PCapp\EtherCOM\obj\Debug\EtherCOM.TcpForm.resources
+C:\Users\PatLas\Desktop\Kołodziej\PCapp\EtherCOM\obj\Debug\EtherCOM.Properties.Resources.resources
+C:\Users\PatLas\Desktop\Kołodziej\PCapp\EtherCOM\obj\Debug\EtherCOM.csproj.GenerateResource.Cache
+C:\Users\PatLas\Desktop\Kołodziej\PCapp\EtherCOM\obj\Debug\EtherCOM.exe
+C:\Users\PatLas\Desktop\Kołodziej\PCapp\EtherCOM\obj\Debug\EtherCOM.pdb

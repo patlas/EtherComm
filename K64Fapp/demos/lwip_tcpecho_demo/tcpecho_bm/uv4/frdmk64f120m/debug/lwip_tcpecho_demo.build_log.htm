@@ -1,0 +1,62 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: µVision V5.12.0.0
+Copyright (C) 2014 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: PatLas PatLas AGH Flex license: MDK-ARM Professional: 100 user(s) (mdk_pro) Borrow: 
+ 
+Tool Versions:
+Toolchain:       MDK-ARM Professional: 100 user(s)  Version: 5.12.0.0
+Toolchain Path:  C:\Keil_v5\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.05 (build 41)
+Assembler:       Armasm.exe V5.05 (build 41)
+Linker/Locator:  ArmLink.exe V5.05 (build 41)
+Library Manager: ArmAr.exe V5.05 (build 41)
+Hex Converter:   FromElf.exe V5.05 (build 41)
+CPU DLL:         SARMCM3.DLL V5.12.0.0
+Dialog DLL:      DCM.DLL V1.13.0.0
+    Target DLL: Segger\JL2CM3.dll
+Dialog DLL:      TCM.DLL V1.14.2.0
+ 
+<h2>Project:</h2>
+C:\Users\PatLas\Documents\GitHub\EtherComm\demos\lwip_tcpecho_demo\tcpecho_bm\uv4\frdmk64f120m\lwip_tcpecho_demo.uvprojx
+Project File Date:  02/11/2015
+
+<h2>Output:</h2>
+Build Project 'lwip_tcpecho_demo' - Target 'lwip_tcpecho_demo Debug'
+compiling echo.c...
+linking...
+Program Size: Code=76820 RO-data=2020 RW-data=324 ZI-data=101188  
+FromELF: creating hex file...
+"debug\lwip_tcpecho_demo.out" - 0 Error(s), 0 Warning(s).
+
+<h2>Collection of Component include folders:</h2>
+  C:\Users\PatLas\Documents\GitHub\EtherComm\demos\lwip_tcpecho_demo\tcpecho_bm\uv4\frdmk64f120m\RTE
+  C:\Keil_v5\ARM\PACK\Keil\Kinetis_K60_DFP\1.2.0\Device\Include
+
+<h2>Collection of Component Files used:</h2>
+</pre>
+</body>
+</html>
+mos\lwip_tcpecho_demo\tcpecho_bm\src\echo.c(663): warning:  #177-D: variable "UartSendSucc" was declared but never referenced
+        uart_status_t UartSendSucc = kStatus_UART_Success;
+../../src/echo.c: 3 warnings, 0 errors
+compiling CircBuf.c...
+C:\Users\PatLas\Documents\GitHub\EtherComm\demos\lwip_tcpecho_demo\tcpecho_bm\src\CircBuf.c(30): warning:  #167-D: argument of type "volatile uint8_t *" is incompatible with parameter of type "uint8_t *"
+        CircBuffWrite(&CircBuffTx, &UART_READ_DATA_REG );
+C:\Users\PatLas\Documents\GitHub\EtherComm\demos\lwip_tcpecho_demo\tcpecho_bm\src\CircBuf.c(149): warning:  #1-D: last line of file ends without a newline
+  }
+..\..\src\CircBuf.c: 2 warnings, 0 errors
+compiling TimeoutTimer.c...
+linking...
+Program Size: Code=76820 RO-data=2020 RW-data=324 ZI-data=101188  
+FromELF: creating hex file...
+"debug\lwip_tcpecho_demo.out" - 0 Error(s), 5 Warning(s).
+
+<h2>Collection of Component include folders:</h2>
+  C:\Users\PatLas\Documents\GitHub\EtherComm\demos\lwip_tcpecho_demo\tcpecho_bm\uv4\frdmk64f120m\RTE
+  C:\Keil_v5\ARM\PACK\Keil\Kinetis_K60_DFP\1.2.0\Device\Include
+
+<h2>Collection of Component Files used:</h2>

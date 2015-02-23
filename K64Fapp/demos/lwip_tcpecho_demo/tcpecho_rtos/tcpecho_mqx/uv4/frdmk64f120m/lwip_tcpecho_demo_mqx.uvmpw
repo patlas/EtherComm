@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ProjectWorkspace xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="project_mpw.xsd">
+  <SchemaVersion>1.0</SchemaVersion>
+  <Header>### uVision Project, (C) Keil Software</Header>
+  <WorkspaceName>WorkSpace</WorkspaceName>
+<project><PathAndName>../../../../../../rtos/mqx/mqx/build/uv4/bsp_frdmk64f120m/bsp_frdmk64f120m.uvproj</PathAndName><NodeIsActive>0</NodeIsActive></project><project><PathAndName>../../../../../../rtos/mqx/mqx/build/uv4/psp_frdmk64f120m/psp_frdmk64f120m.uvproj</PathAndName><NodeIsActive>0</NodeIsActive></project><project><PathAndName>../../../../../../rtos/mqx/mqx_stdlib/build/uv4/mqx_stdlib_frdmk64f120m/mqx_stdlib_frdmk64f120m.uvproj</PathAndName><NodeIsActive>0</NodeIsActive></project><project><PathAndName>../../../../../../lib/ksdk_mqx_lib/uv4/K64F12/ksdk_mqx_lib.uvproj</PathAndName><NodeIsActive>0</NodeIsActive></project><project><PathAndName>lwip_tcpecho_demo_mqx.uvproj</PathAndName><NodeIsActive>1</NodeIsActive></project></ProjectWorkspace>
